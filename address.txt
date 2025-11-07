@@ -1,4 +1,4 @@
-const addressTH = [
+[
   {
     province: "กรุงเทพมหานคร",
     district: "เขตพระนคร",
